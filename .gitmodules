@@ -13,3 +13,6 @@
 [submodule "common/connect"]
 	path = common/connect
 	url = git://github.com/senchalabs/connect.git
+[submodule "client/vendor/apf"]
+	path = client/vendor/apf
+	url = https://github.com/ajaxorg/apf.git
